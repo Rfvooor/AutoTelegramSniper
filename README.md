@@ -12,6 +12,7 @@ Features Roadmap:
   -  Additional DEXs
   -  Additional chains
   -  Dynamic snipe amounts based on "risk"
+  -  Discord integration potentially
 
 There are no recurring/volume based fees, just a 1 time non-refundable activation fee starting at .75 SOL. 
 This will be increasing by .25 with each update, however if you bought earlier you won't need to pay any additional fees.
